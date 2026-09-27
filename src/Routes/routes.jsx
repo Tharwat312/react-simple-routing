@@ -3,7 +3,6 @@ import Layout from "../Layouts/Layout";
 import Home from "../Pages/Home/Home";
 import About from "../Pages/About/About";
 import NotFound from "../Pages/NotFound/NotFound";
-
 const routes = createBrowserRouter([
     {
         path: "/", element: <Layout />, children: [
