@@ -1,0 +1,276 @@
+{
+  "products": [
+    {
+      "id": "p4d6q",
+      "name": "Laptop Stand",
+      "category": "Accessories",
+      "description": "Adjustable aluminum laptop stand for better ergonomics.",
+      "price": 40,
+      "isSale": true
+    },
+    {
+      "id": "p5e5w",
+      "name": "Bluetooth Speaker",
+      "category": "Electronics",
+      "description": "Portable Bluetooth speaker with clear sound and strong bass.",
+      "price": 60,
+      "isSale": false
+    },
+    {
+      "id": "p6f4r",
+      "name": "Smart Watch",
+      "category": "Wearables",
+      "description": "Smart watch with fitness tracking and heart rate monitoring.",
+      "price": 180,
+      "isSale": true
+    },
+    {
+      "id": "p7g3t",
+      "name": "Running Shoes",
+      "category": "Fashion",
+      "description": "Comfortable running shoes designed for daily workouts.",
+      "price": 95,
+      "isSale": false
+    },
+    {
+      "id": "p8h2y",
+      "name": "Hoodie",
+      "category": "Fashion",
+      "description": "Warm and stylish hoodie made from soft cotton fabric.",
+      "price": 50,
+      "isSale": true
+    },
+    {
+      "id": "p9i1u",
+      "name": "Jeans",
+      "category": "Fashion",
+      "description": "Classic blue jeans with a modern slim fit.",
+      "price": 70,
+      "isSale": false
+    },
+    {
+      "id": "p10j9o",
+      "name": "Baseball Cap",
+      "category": "Fashion",
+      "description": "Casual baseball cap with adjustable strap.",
+      "price": 20,
+      "isSale": false
+    },
+    {
+      "id": "p11k8p",
+      "name": "Office Chair",
+      "category": "Furniture",
+      "description": "Ergonomic office chair with lumbar support.",
+      "price": 220,
+      "isSale": true
+    },
+    {
+      "id": "p12l7a",
+      "name": "Desk Lamp",
+      "category": "Furniture",
+      "description": "LED desk lamp with adjustable brightness.",
+      "price": 35,
+      "isSale": false
+    },
+    {
+      "id": "p13m6s",
+      "name": "Notebook",
+      "category": "Stationery",
+      "description": "Plain notebook suitable for notes and sketches.",
+      "price": 5,
+      "isSale": false
+    },
+    {
+      "id": "p14n5d",
+      "name": "Pen Set",
+      "category": "Stationery",
+      "description": "Set of smooth writing pens in multiple colors.",
+      "price": 12,
+      "isSale": true
+    },
+    {
+      "id": "p15o4f",
+      "name": "Backpack",
+      "category": "Accessories",
+      "description": "Spacious backpack suitable for work or travel.",
+      "price": 80,
+      "isSale": false
+    },
+    {
+      "id": "p16p3g",
+      "name": "Sunglasses",
+      "category": "Accessories",
+      "description": "UV-protected sunglasses with a modern design.",
+      "price": 45,
+      "isSale": true
+    },
+    {
+      "id": "p17q2h",
+      "name": "Water Bottle",
+      "category": "Lifestyle",
+      "description": "Reusable water bottle made from stainless steel.",
+      "price": 18,
+      "isSale": false
+    },
+    {
+      "id": "p18r1j",
+      "name": "Coffee Mug",
+      "category": "Lifestyle",
+      "description": "Ceramic coffee mug suitable for hot drinks.",
+      "price": 15,
+      "isSale": false
+    },
+    {
+      "id": "p19s9k",
+      "name": "Wall Clock",
+      "category": "Home",
+      "description": "Minimal wall clock with silent movement.",
+      "price": 30,
+      "isSale": true
+    },
+    {
+      "id": "p20t8l",
+      "name": "Table Fan",
+      "category": "Home",
+      "description": "Compact table fan with adjustable speed.",
+      "price": 55,
+      "isSale": false
+    },
+    {
+      "id": "p21u7z",
+      "name": "Power Bank",
+      "category": "Electronics",
+      "description": "High-capacity power bank for charging devices on the go.",
+      "price": 65,
+      "isSale": true
+    },
+    {
+      "id": "p22v6x",
+      "name": "Earbuds",
+      "category": "Electronics",
+      "description": "Wireless earbuds with noise isolation.",
+      "price": 90,
+      "isSale": false
+    },
+    {
+      "id": "p23w5c",
+      "name": "Yoga Mat",
+      "category": "Fitness",
+      "description": "Non-slip yoga mat suitable for home workouts.",
+      "price": 35,
+      "isSale": false
+    },
+    {
+      "id": "p24x4v",
+      "name": "Dumbbells Set",
+      "category": "Fitness",
+      "description": "Adjustable dumbbells set for strength training.",
+      "price": 150,
+      "isSale": true
+    },
+    {
+      "id": "p25y3b",
+      "name": "Skipping Rope",
+      "category": "Fitness",
+      "description": "Lightweight skipping rope for cardio exercises.",
+      "price": 12,
+      "isSale": false
+    },
+    {
+      "id": "p26z2n",
+      "name": "Cookware Set",
+      "category": "Kitchen",
+      "description": "Non-stick cookware set for everyday cooking.",
+      "price": 200,
+      "isSale": true
+    },
+    {
+      "id": "p27a1m",
+      "name": "Knife Set",
+      "category": "Kitchen",
+      "description": "Sharp stainless steel knives with wooden handles.",
+      "price": 110,
+      "isSale": false
+    },
+    {
+      "id": "p28b0q",
+      "name": "Cutting Board",
+      "category": "Kitchen",
+      "description": "Durable wooden cutting board for food preparation.",
+      "price": 22,
+      "isSale": false
+    },
+    {
+      "id": "p29c9e",
+      "name": "Toaster",
+      "category": "Kitchen",
+      "description": "Two-slice toaster with adjustable browning levels.",
+      "price": 75,
+      "isSale": true
+    },
+    {
+      "id": "p30d8r",
+      "name": "Blender",
+      "category": "Kitchen",
+      "description": "High-speed blender for smoothies and sauces.",
+      "price": 130,
+      "isSale": false
+    },
+    {
+      "id": "p31e7t",
+      "name": "Book Shelf",
+      "category": "Furniture",
+      "description": "Wooden bookshelf with multiple storage levels.",
+      "price": 160,
+      "isSale": false
+    },
+    {
+      "id": "p32f6y",
+      "name": "Bedside Table",
+      "category": "Furniture",
+      "description": "Compact bedside table with drawer storage.",
+      "price": 85,
+      "isSale": true
+    },
+    {
+      "id": "p33g5u",
+      "name": "Floor Rug",
+      "category": "Home",
+      "description": "Soft floor rug that adds warmth to any room.",
+      "price": 95,
+      "isSale": false
+    },
+    {
+      "id": "p34h4i",
+      "name": "Curtains",
+      "category": "Home",
+      "description": "Light-blocking curtains for better privacy.",
+      "price": 70,
+      "isSale": true
+    },
+    {
+      "id": "p35i3o",
+      "name": "Pillow Set",
+      "category": "Home",
+      "description": "Set of comfortable pillows for better sleep.",
+      "price": 40,
+      "isSale": false
+    },
+    {
+      "id": "edeffdddd9d048",
+      "name": "iphone",
+      "category": "mobile",
+      "description": "asdas",
+      "price": 1000,
+      "isSale": true
+    },
+    {
+      "id": "461666d6f8dc88",
+      "name": "Samsung",
+      "category": "TV",
+      "description": "Samsung OLED 55\" Smart TV",
+      "price": 10000,
+      "isSale": true
+    }
+  ]
+}
